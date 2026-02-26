@@ -10,13 +10,14 @@ The dataset used in this project is publicly available from:
 
 This dataset contains satellite images used for training and testing the water body detection model.
 
-📌 Project Overview
+
+# 📌 Project Overview
 
 This project uses Artificial Intelligence and Deep Learning techniques to automatically detect water bodies such as lakes, rivers, reservoirs, and ponds from satellite images. The system helps in environmental monitoring, disaster management, agricultural planning, and smart city development.
 
 The model analyzes satellite imagery and classifies water and non-water regions to generate accurate detection results.
 
-🎯 Objectives
+# 🎯 Objectives
 
 To detect water bodies from satellite images using deep learning.
 
@@ -26,7 +27,7 @@ To build a scalable and reusable AI pipeline.
 
 To support environmental monitoring and decision-making.
 
-📊 Applications
+# 📊 Applications
 
 Flood detection and disaster management
 
