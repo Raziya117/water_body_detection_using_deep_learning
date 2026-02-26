@@ -1,4 +1,3 @@
-# water_body_detection_using_deep_learning
 
 # AI-Based Water Body Detection and Environmental Monitoring Using Satellite Imagery
 
